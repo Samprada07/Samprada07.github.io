@@ -229,6 +229,10 @@ section{
     padding:1rem 0;
     color:#eee;
 }
+ 
+.home table, th, td{
+    border: 1px solid #ccc;
+}
 
 .about {
     margin-top: 90px;
